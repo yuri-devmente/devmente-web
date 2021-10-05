@@ -3,7 +3,7 @@ html {
   font-family: "Open Sans", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
-  color: #777;
+  color: rgb(163, 156, 144);
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
@@ -18,12 +18,12 @@ h2 {
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
-  color: #333;
+  color: rgb(200, 195, 188);
 }
 h3 {
   font-size: 20px;
   font-weight: 600;
-  color: #333;
+  color: rgb(200, 195, 188);
 }
 h4 {
   font-size: 18px;
@@ -76,21 +76,26 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #04070A;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
   font-family: "Raleway", sans-serif;
+  padding: 0;
   font-size: 24px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
 }
+
+#menu img{
+  height: 60px;
+}
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -132,9 +137,10 @@ hr {
 .navbar-toggle {
   border-radius: 0;
 }
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #fff;
+  background-color: rgb(24, 26, 27);
   border-color: #608dfd;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
@@ -263,6 +269,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  background-color: rgb(24, 26, 27);
 }
 #about h3 {
   font-size: 22px;
@@ -353,6 +360,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
+  background-color: rgb(29, 32, 33);
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
@@ -442,6 +450,7 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 100px 0;
+  background-color: rgb(24, 26, 27);
 }
 #team h4 {
   margin: 5px 0;
@@ -585,7 +594,7 @@ label {
 }
 /* Footer Section*/
 #footer {
-  background: #f6f6f6;
+  background-color: rgb(29, 32, 33);
   padding: 30px 0;
 }
 #footer p {
@@ -602,5 +611,14 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+  #menu img {
+    height: 50px;
+  }
+  header .intro-text{
+    padding-top: 100px 
+  }
+  .intro h1{
+    font-size: 50px;
   }
 }
