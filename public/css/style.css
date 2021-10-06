@@ -27,7 +27,7 @@ h3 {
 }
 h4 {
   font-size: 18px;
-  color: #333;
+  color: rgb(200, 195, 188);
   font-weight: 600;
 }
 h5 {
@@ -528,10 +528,10 @@ label {
   padding: 6px 12px;
   font-size: 16px;
   line-height: 1.42857143;
-  color: #444;
-  background-color: #fff;
+  color: rgb(189, 183, 175);
+  background-color: rgb(24, 26, 27);
   background-image: none;
-  border: 1px solid #ddd;
+  border: 1px solid rgb(58, 62, 65);
   border-radius: 0;
   -webkit-box-shadow: none;
   box-shadow: none;

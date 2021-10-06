@@ -1,21 +1,18 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to Devmente",
+    "paragraph": "Tech-based enterprise solutions"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Empresa enfocada en innovación, calidad y compromiso  los objetivos de nuestros clientes. Buscamos establecer relaciones a a largo plazo con conocimiento y confianza brindada en el desarrollo de soluciones y servicios de calidad.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Innovación en el ambiente propicio",
+      "Crecimiento de un equipo excepcional",
+      "Seguimiento de los más altos estándares de calidad"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Acciones basadas en resultados",
+      "Desarrollo de Proyectos Ágiles"
     ]
   },
   "Gallery": [
@@ -67,34 +64,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-solid fa-paw-claws",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Diseño e implementación de sistemas Serverless con AWS Lambda."
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Diseño e implementación de Single Page Applications con Angular."
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Diseño e implementación de microservicios reactivos con Spring Boot."
     },
     {
       "icon": "fa fa-language",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Diseño e implementación de microservicios reactivos con Vertx."
     },
     {
       "icon": "fa fa-plane",
       "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Diseño de APIs RESTful."
     },
     {
       "icon": "fa fa-pie-chart",
       "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Git & GitFlow."
     }
   ],
   "Testimonials": [
