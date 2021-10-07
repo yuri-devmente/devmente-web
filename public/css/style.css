@@ -317,7 +317,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #274c54 0%, #0494a4 100%);
+  background: rgb(29, 32, 33);
   color: #fff;
 }
 #services .service-desc {
@@ -360,7 +360,7 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
-  background-color: rgb(29, 32, 33);
+  background-color: rgb(24, 26, 27);
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
@@ -469,7 +469,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #274c54 0%, #0494a4 100%);
+  background: #04070A;
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
