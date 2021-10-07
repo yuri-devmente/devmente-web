@@ -122,7 +122,7 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          <div className='col-md-12'>
+          {/* <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
@@ -144,10 +144,10 @@ export const Contact = (props) => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
-      <div id='footer'>
+      {/* <div id='footer'>
         <div className='container text-center'>
           <p>
             &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
@@ -156,7 +156,7 @@ export const Contact = (props) => {
             </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }
