@@ -94,6 +94,38 @@
       "text": "Git & GitFlow."
     }
   ],
+  "Stack": [
+    {
+      "icon": "fa fab fa-aws",
+      "name": "Lorem ipsum dolor",
+      "text": "Design and implementation of Serverless systems with AWS Lambda."
+    },
+    {
+      "icon": "fa fa-brands fa-angular",
+      "name": "Consectetur adipiscing",
+      "text": "Design and implementation of Single Page Applications with Angular."
+    },
+    {
+      "icon": "fa fa-solid fa-power-off",
+      "name": "Lorem ipsum dolor",
+      "text": "Design and implementation of reactive microservices with Spring Boot."
+    },
+    {
+      "icon": "fa fa-solid fa-desktop",
+      "name": "Consectetur adipiscing",
+      "text": "Design and implementation of reactive microservices with Vertx."
+    },
+    {
+      "icon": "fa fa-solid fa-database",
+      "name": "Lorem ipsum dolor",
+      "text": "RESTful API design."
+    },
+    {
+      "icon": "fa fa-brands fa-git-alt",
+      "name": "Consectetur adipiscing",
+      "text": "Git & GitFlow."
+    }
+  ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
