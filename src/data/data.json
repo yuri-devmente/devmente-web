@@ -4,15 +4,15 @@
     "paragraph": "Tech-based enterprise solutions"
   },
   "About": {
-    "paragraph": "Empresa enfocada en innovación, calidad y compromiso  los objetivos de nuestros clientes. Buscamos establecer relaciones a a largo plazo con conocimiento y confianza brindada en el desarrollo de soluciones y servicios de calidad.",
+    "paragraph": "Company focused on innovation, quality and commitment to the objectives of our clients. We seek to establish long-term relationships with the knowledge and trust provided in the development of quality solutions and services.",
     "Why": [
-      "Innovación en el ambiente propicio",
-      "Crecimiento de un equipo excepcional",
-      "Seguimiento de los más altos estándares de calidad"
+      "Innovation in the enabling environment",
+      "Growth of an exceptional team",
+      "Monitoring of the highest quality standards"
     ],
     "Why2": [
-      "Acciones basadas en resultados",
-      "Desarrollo de Proyectos Ágiles"
+      "Results-based actions",
+      "Agile Project Development"
     ]
   },
   "Gallery": [
@@ -64,32 +64,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-solid fa-paw-claws",
+      "icon": "fa fab fa-aws",
       "name": "Lorem ipsum dolor",
-      "text": "Diseño e implementación de sistemas Serverless con AWS Lambda."
+      "text": "Design and implementation of Serverless systems with AWS Lambda."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-brands fa-angular",
       "name": "Consectetur adipiscing",
-      "text": "Diseño e implementación de Single Page Applications con Angular."
+      "text": "Design and implementation of Single Page Applications with Angular."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-solid fa-power-off",
       "name": "Lorem ipsum dolor",
-      "text": "Diseño e implementación de microservicios reactivos con Spring Boot."
+      "text": "Design and implementation of reactive microservices with Spring Boot."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-solid fa-desktop",
       "name": "Consectetur adipiscing",
-      "text": "Diseño e implementación de microservicios reactivos con Vertx."
+      "text": "Design and implementation of reactive microservices with Vertx."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-solid fa-database",
       "name": "Lorem ipsum dolor",
-      "text": "Diseño de APIs RESTful."
+      "text": "RESTful API design."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-brands fa-git-alt",
       "name": "Consectetur adipiscing",
       "text": "Git & GitFlow."
     }
@@ -149,9 +149,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Av. la Rosa Lozano Mza. C Lote. 1 Asc. Villa Reportero Grafico, Santiago de Surco - LIMA PE",
+    "phone": "+51 936 295 376",
+    "email": "hello@devmente.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
