@@ -1,3 +1,4 @@
+import { Technology } from "./technology";
 export const Stack = (props) => {
   return (
     <div id='stack' className='text-center'>
@@ -9,16 +10,11 @@ export const Stack = (props) => {
             dapibus leonec.
           </p> */}
         </div>
-        <div className='row'>
+        <div className='row stack-group'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4'>
-                  {' '}
-                  <i className={d.icon}></i>
-                  <div className='service-desc'>
-                    {/* <h3>{d.name}</h3> */}
-                    <p>{d.text}</p>
-                  </div>
+                <div key={`${d.title}-${i}`} className='col-md-2'>
+                  <Technology title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} />
                 </div>
               ))
             : 'loading'}
