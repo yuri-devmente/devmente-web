@@ -97,48 +97,88 @@
   "Stack": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/stack/01-large.svg",
+      "smallImage": "img/stack/01-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/stack/02-large.svg",
+      "smallImage": "img/stack/02-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/stack/03-large.svg",
+      "smallImage": "img/stack/03-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/stack/04-large.svg",
+      "smallImage": "img/stack/04-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "largeImage": "img/stack/05-large.svg",
+      "smallImage": "img/stack/05-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "largeImage": "img/stack/06-large.svg",
+      "smallImage": "img/stack/06-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "largeImage": "img/stack/07-large.svg",
+      "smallImage": "img/stack/07-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "largeImage": "img/stack/08-large.svg",
+      "smallImage": "img/stack/08-small.svg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "img/stack/09-large.svg",
+      "smallImage": "img/stack/09-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/10-large.svg",
+      "smallImage": "img/stack/10-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/11-large.svg",
+      "smallImage": "img/stack/11-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/12-large.svg",
+      "smallImage": "img/stack/12-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/13-large.svg",
+      "smallImage": "img/stack/13-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/14-large.svg",
+      "smallImage": "img/stack/14-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/15-large.svg",
+      "smallImage": "img/stack/15-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/16-large.svg",
+      "smallImage": "img/stack/16-small.svg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/stack/17-large.svg",
+      "smallImage": "img/stack/17-small.svg"
     }
   ],
   "Testimonials": [
